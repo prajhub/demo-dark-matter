@@ -20,7 +20,7 @@ export default function Navbar() {
       <ul   className=" hidden md:flex flex-row ">
        
       <Link href='/'><li className='font-bold text-white hover:cursor-pointer hover:text-gray-400 text-md p-8'>Home</li></Link>
-          <Link href='/about'><li className='font-bold text-md text-white hover:cursor-pointer hover:text-gray-400 p-8'>About</li></Link>
+          <Link href='/'><li className='font-bold text-md text-white hover:cursor-pointer hover:text-gray-400 p-8'>About</li></Link>
           <Link href='/games'>  <li className='font-bold text-md text-white hover:cursor-pointer hover:text-gray-400 p-8'>Games</li></Link>
           <Link href='/services'> <li className='font-bold text-md text-white hover:cursor-pointer hover:text-gray-400 p-8'>Services</li></Link>
           <Link href='/careers'> <li className='font-bold text-md text-white hover:cursor-pointer hover:text-gray-400 p-8'>Careers</li></Link>
