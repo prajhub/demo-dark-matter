@@ -7,7 +7,7 @@ export default function ContactTalk() {
 
 <div className="flex flex-col items-center bg-white py-10">
                 <div className="text-black flex flex-col py-2 px-4  max-w-[1200px] mx-auto">
-                    <h1 className=" text-center md:mt-4 font-bold md:text-6xl text-4xl tracking-wide">Let's Talk</h1>
+                    <h1 className=" text-center md:mt-4 font-bold md:text-6xl text-4xl tracking-wide">Let&apos;s Talk</h1>
 
                     <div className="md:mt-16 mt-12 md:w-[600px] ">
                         <ul className="flex flex-col gap-7">

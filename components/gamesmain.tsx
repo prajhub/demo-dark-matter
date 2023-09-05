@@ -25,7 +25,7 @@ export default function GamesMain() {
             <div className='md:left-[10%] flex flex-col justify-end h-[600px] max-w-[1100px] m-auto absolute p-4'>
           
           <h1 className='font-bold text-5xl md:text-6xl drop-shadow-2xl'>
-            Let's Play
+            Let&apos;s Play
           </h1>
           
         </div>

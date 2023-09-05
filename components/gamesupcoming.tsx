@@ -12,7 +12,7 @@ export default function UpcomingGames() {
                 <div className="text-black flex flex-col md:pt-28 px-4  max-w-[1000px] mx-auto">
                     <h1 className=" text-center text-black md:mt-4 font-bold md:text-5xl text-4xl tracking-wide">Upcoming Project: Casual Casino</h1>
 
-                    <p className="text-center text-black leading-normal font-medium md:text-2xl text-lg line tracking-wide py-6">Get ready to redefine your casino gaming experience! We're introducing an innovative blend of classic fun and exciting gameplay, creating a captivating journey like no other. Prepare to play and win in a whole new way. Stay Tuned!</p>
+                    <p className="text-center text-black leading-normal font-medium md:text-2xl text-lg line tracking-wide py-6">Get ready to redefine your casino gaming experience! We&apos;re introducing an innovative blend of classic fun and exciting gameplay, creating a captivating journey like no other. Prepare to play and win in a whole new way. Stay Tuned!</p>
 
                 </div>
                 <div className="">

@@ -4,7 +4,7 @@ export default function WorkTogether() {
     return (
         <section className="max-w-full bg-white py-14 ">
             <div className="flex  flex-col items-center py-10">
-                <h1 className=" text-black font-bold text-5xl tracking-wide">Let's Work Together</h1>
+                <h1 className=" text-black font-bold text-5xl tracking-wide">Let&apos;s Work Together</h1>
                 <p className=" font-lg text-2xl py-6 text-black">We serve difference!</p>
             </div>
 

@@ -1,4 +1,4 @@
-export default function() {
+export default function ServiceChoose() {
 
     return (
         <section className="max-w-full bg-white">
@@ -6,7 +6,7 @@ export default function() {
         <div className="text-black flex flex-col py-2 px-4  max-w-[1050px] mx-auto">
             <h1 className=" text-center md:mt-4 font-bold mb-5 md:text-5xl text-4xl tracking-wide">Why Choose Us?</h1>
         
-            <p className=" leading-normal  text-center font-medium md:text-xl text-lg line tracking-wide py-8">At Dark Matter Games, we merge creativity and technology to bring your visions to life. Our commitment to quality, innovation, and client satisfaction sets us apart. Whether you're a gamer with a dream, a business seeking expansion, or an individual with a unique vision, we're here to turn your aspirations into reality.</p>
+            <p className=" leading-normal  text-center font-medium md:text-xl text-lg line tracking-wide py-8">At Dark Matter Games, we merge creativity and technology to bring your visions to life. Our commitment to quality, innovation, and client satisfaction sets us apart. Whether you&aposre a gamer with a dream, a business seeking expansion, or an individual with a unique vision, we&apos;re here to turn your aspirations into reality.</p>
            
             
         </div>

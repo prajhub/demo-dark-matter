@@ -16,7 +16,7 @@ export default function GameDisplayTwo() {
                 <div className="flex max-w-[600px] md:mt-2 mt-1 md:items-end items-center p-16 flex-col justify-start">
                     <h1 className="md:text-4xl text-4xl tracking-wide font-bold">Sprite Ninja: RPG</h1>
                     <p className="md:text-lg text-md md:py-9 p-6 md:text-end text-center tracking-wide">Epic RPG adventure, Sprite Ninja, where you'll unlock powerful heroes, utilize their unique powers to conquer challenging foes, and unlock a vast array of captivating maps as you journey through a world of excitement and strategy.</p>
-                    <button className="text-white border-2 leading-loose tracking-wide border-white hover:text-black hover:bg-gray-200 focus:outline-none focus:ring-4 focus:ring-white font-medium rounded-full text-2xl md:py-2 md:px-20 px-12 text-center mr-2 md:mb-28">Let's Run</button>
+                    <button className="text-white border-2 leading-loose tracking-wide border-white hover:text-black hover:bg-gray-200 focus:outline-none focus:ring-4 focus:ring-white font-medium rounded-full text-2xl md:py-2 md:px-20 px-12 text-center mr-2 md:mb-28">Let&apos;s Run</button>
                 </div>
                 <div className=' absolute top-0 left-0  w-full h-screen' >
                     <Image src={shuriken} className="hidden md:block mt-[1820px]  ml-[1230px]" quality={100} alt="Coins" />
