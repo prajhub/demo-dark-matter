@@ -18,13 +18,13 @@ export default function WelcomeMain() {
                 </div>
                 <button className="text-white  leading-loose tracking-wide   bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium rounded-full text-xl md:py-4 py-2 md:px-20 px-12 text-center mr-2 md:mb-56">Know Us</button>
             </div>
-            <div className='bg-black/10 absolute top-0 left-0 w-full h-screen' >
+            <div className=' absolute top-0 left-0 w-full h-screen' >
                 <Image src={coins} className=" hidden md:block mt-[1030px]" quality={100} alt="Coins" />
             </div>
-            <div className='bg-black/10 absolute top-0 left-0 w-full h-screen' >
+            <div className=' absolute top-0 left-0 w-full h-screen' >
                 <Image src={ninja} className="hidden md:block mt-[1325px] ml-96" quality={100} alt="Coins" />
             </div>
-            <div className='bg-black/10 absolute top-0 left-0 w-full h-screen' >
+            <div className='0 absolute top-0 left-0 w-full h-screen' >
                 <Image src={gemone} className="hidden md:block mt-[1100px] ml-[1250px]   " quality={100} alt="Coins" />
             </div>
         </section>

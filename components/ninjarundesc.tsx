@@ -16,11 +16,11 @@ export default function NinjaDesc() {
                 </div>
                 <button className="text-white border-2  leading-loose tracking-wide border-white hover:text-black   hover:bg-gray-200 focus:outline-none focus:ring-4 focus:ring-white font-medium rounded-full text-2xl md:py-2 md:px-20 px-12 text-center mr-2 md:mb-28">Let&apos;s Run</button>
             </div>
-            <div className='bg-black/10 absolute top-0 left-0 w-full h-screen' >
+            <div className=' absolute top-0 left-0 w-full h-screen' >
             <Image src={gemtwo} className=" hidden md:block mt-[1830px]" quality={100} alt="Gem"/>
         </div>
 
-        <div className='bg-black/10 absolute top-0 left-0 w-full h-screen' >
+        <div className=' absolute top-0 left-0 w-full h-screen' >
             <Image src={barrel} className="hidden md:block mt-[1965px] ml-[1250px]   " quality={100} alt="Coins"/>
         </div>
 
